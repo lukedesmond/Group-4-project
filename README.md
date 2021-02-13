@@ -64,4 +64,5 @@ Below is a link to our gitHub pages to see more of our work!
 ---
 <a name = "License"></a>
 ### License 
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2021 Michelle Bennett
+© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
